@@ -1,1 +1,1 @@
-# Learning Git
+# Git for practice

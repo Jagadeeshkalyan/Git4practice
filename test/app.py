@@ -1,3 +1,3 @@
 test instructions
 test login
-test logout
+test login & logout
